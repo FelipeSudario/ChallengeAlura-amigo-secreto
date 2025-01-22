@@ -35,7 +35,7 @@ Lógica de negócio e interatividade.
 
 ## Como Usar
 Clone este repositório:
-`git clone <URL-do-repositório>`
+`git clone git@github.com:felipesudario/ChallengeAlura-amigo-secreto.git`
 
 Abra o arquivo index.html em qualquer navegador moderno.
 
